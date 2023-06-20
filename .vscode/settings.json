@@ -1,0 +1,30 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "stylelint.validate": ["css", "less", "vue", "html"],
+  "stylelint.enable": true,
+  "css.validate": false,
+  "less.validate": false,
+  "cSpell.words": [
+    "vusion",
+    "stylelint",
+    "pnpm",
+    "unplugin",
+    "commitlint",
+    "pinia",
+    "vite",
+    "preinstall",
+    "unocss",
+    "attributify",
+    "vueuse"
+  ],
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src"
+  },
+  "path-intellisense.extensionOnImport": true
+}
